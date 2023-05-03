@@ -7,7 +7,7 @@
 5. Your browser will open and you can see the project running on localhost:3000
 
 # Project walkthrough.
-https://user-images.githubusercontent.com/51221607/235945503-21896106-8891-4150-b624-8c0b57335bb7.mp4
+https://user-images.githubusercontent.com/51221607/235948084-4a75ff6a-b372-4a7c-97e3-fcd8af9ed098.mp4
 
 # Project snapshots
 ![Screenshot (358)](https://user-images.githubusercontent.com/51221607/235941775-9d511976-b5c8-4411-9b2d-6216ad4707fc.png)
