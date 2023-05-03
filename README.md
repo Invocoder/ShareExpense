@@ -9,6 +9,7 @@
 # Project walkthrough.
 
 Note: You can change the playback speed of video through 3 dots to view it faster.
+
 https://user-images.githubusercontent.com/51221607/235948084-4a75ff6a-b372-4a7c-97e3-fcd8af9ed098.mp4
 
 # Project snapshots
